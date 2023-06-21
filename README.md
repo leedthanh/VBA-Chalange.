@@ -17,7 +17,7 @@ The total stock volume of the stock. The result should match the following image
 ![image](https://github.com/leedthanh/VBA-Chalange./assets/135544908/bb488175-5cc9-45fb-b18d-52958d49b63a)
 
 
-These are screen shot of my work it matches the image above
+These are screen shots of my work it matches the image above
 
 ![Screen Shot 2023-06-21 at 2 19 14 AM](https://github.com/leedthanh/VBA-Chalange./assets/135544908/545a088d-0faa-48c4-8d21-806dce0e495e)
 ![Screen Shot 2023-06-21 at 2 18 51 AM](https://github.com/leedthanh/VBA-Chalange./assets/135544908/e8858250-9d24-468a-b27c-08a437eb7dde)
