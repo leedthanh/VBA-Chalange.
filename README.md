@@ -17,6 +17,13 @@ The total stock volume of the stock. The result should match the following image
 ![image](https://github.com/leedthanh/VBA-Chalange./assets/135544908/bb488175-5cc9-45fb-b18d-52958d49b63a)
 
 
+These are screen shot of my work it matches the image above
+
+![Screen Shot 2023-06-21 at 2 19 14 AM](https://github.com/leedthanh/VBA-Chalange./assets/135544908/545a088d-0faa-48c4-8d21-806dce0e495e)
+![Screen Shot 2023-06-21 at 2 18 51 AM](https://github.com/leedthanh/VBA-Chalange./assets/135544908/e8858250-9d24-468a-b27c-08a437eb7dde)
+
+![Screen Shot 2023-06-21 at 2 19 36 AM](https://github.com/leedthanh/VBA-Chalange./assets/135544908/077d58c8-072b-4603-a724-779da11d731a)
+
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
 
 ![image](https://github.com/leedthanh/VBA-Chalange./assets/135544908/dcb22102-713b-4715-a46f-2c7ae1c3411a)
